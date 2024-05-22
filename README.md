@@ -2,10 +2,9 @@
 
 - 👋 Hi, I’m @moorecarson64
 - 👀 I’m interested in: Data Analytics, Data Science, and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me moore.carson@outlook.com 
-- 😄 Pronouns: He/Him
+- ✨ Favorite Tech: HTML, SQL, R, Tableau, and Python
+- 📧 moore.carson@outlook.com
+- 🎨 Portfolio: https://saadpasta.github.io
 - ⚡ Fun fact: I am a marathon runner
 
 <!---
