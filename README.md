@@ -4,7 +4,7 @@
 - 👀 I’m interested in: Data Analytics, Data Science, and AI
 - ✨ Favorite Tech: HTML, SQL, R, Tableau, and Python
 - 📧 moore.carson@outlook.com
-- 🎨 Portfolio: https://saadpasta.github.io
+- 🎨 Portfolio:
 - ⚡ Fun fact: I am a marathon runner
 
 <!---
